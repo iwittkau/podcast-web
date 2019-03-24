@@ -1,0 +1,8 @@
+title: Test
+author: Tester
+menu:
+- name: About
+  link: /about
+episodes:
+- title: Episode 0001
+  index: 1

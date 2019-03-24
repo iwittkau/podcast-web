@@ -1,0 +1,13 @@
+title: Test
+author: Tester
+menu:
+- name: About
+  link: /about.html
+- name: Episodes
+  link: /episodes.html
+episodes:
+- name: Frist Episode
+  number: 1
+- name: Second Episode
+  number: 2
+
